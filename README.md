@@ -13,8 +13,9 @@ It'sjust a box connected via USB , you don't need an external sound card to meas
 
 You can use REW or ARTA ( free demo version ) or an other program,
 
-It Contains a box and capsule electret microphone preamp, a loopback
+The project is based on a capsule electret, a microphone preamp, a loopback
 and a second channel with a secured probe to measure the voltage across the speaker ( for ARTA )
+connected via a PCM2904 from BB/TI
 
 
 All comments are welcome
