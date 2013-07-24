@@ -15,3 +15,8 @@ You can use REW or ARTA ( free demo version ) or an other program,
 
 It Contains a box and capsule electret microphone preamp, a loopback
 and a second channel with a secured probe to measure the voltage across the speaker ( for ARTA )
+
+
+All comments are welcome
+
+Totof
