@@ -9,7 +9,7 @@ www.audiyofan.org
 A link to the dedicated post 
 http://www.audiyofan.org/forum/viewtopic.php?f=57&t=8948
 
-It'sjust a box connected via USB , you don't need an external sound card to measure your speakers,
+It's just a box connected via USB , you don't need an external sound card to measure your speakers,
 
 You can use REW or ARTA ( free demo version ) or an other program,
 
