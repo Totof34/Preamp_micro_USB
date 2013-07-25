@@ -17,6 +17,7 @@ The project is based on a capsule electret, a microphone preamp, a loopback
 and a second channel with a secured probe to measure the voltage across the speaker ( for ARTA )
 connected via a PCM2904 from BB/TI
 
+PCB & schema are designed with Kicad
 
 All comments are welcome
 
