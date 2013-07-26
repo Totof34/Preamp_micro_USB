@@ -23,4 +23,4 @@ All comments are welcome
 
 Totof
 
-.. image:: schematics/Schema.png
+
