@@ -19,7 +19,7 @@ connected via a PCM2904 from BB/TI
 
 PCB & schema are designed with Kicad
 
-.. image:: schematics/schema.png
+.. image:: schematics/Schema.png
 
 All comments are welcome
 
