@@ -19,7 +19,8 @@ connected via a PCM2904 from BB/TI
 
 PCB & schema are designed with Kicad
 
-![](schematics/schema_kicad.png)
+![](schematics/PCM2904.png)
+![](schematics/Preamp_micro.png)
 
 All comments are welcome
 
