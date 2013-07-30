@@ -17,6 +17,9 @@ The project is based on a capsule electret, a microphone preamp, a loopback
 and a second channel with a secured probe to measure the voltage across the speaker ( for ARTA )
 connected via a PCM2904 from BB/TI
 
+Under Linux & Mac no drivers is required
+Under Windows you can find in the folder "Drivers_windows" all you need to run this box properly
+
 PCB & schema are designed with Kicad
 
 ![](schematics/PCM2904.png)
